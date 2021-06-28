@@ -1,0 +1,8 @@
+.landingpage{
+    background-image: url('./../images/hand-drawn-an-italian-pizza-house-vector-1151299.jpg');
+    background-size: cover;
+    color: #000;
+}
+#small{
+    width: 300px;
+}
